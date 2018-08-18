@@ -1,0 +1,19 @@
+/*optional css for home page*/
+
+body {
+	padding-bottom: 150px;
+}
+
+.bottom_nav {
+	margin: auto;
+}
+
+.vertical_alignment {
+	height: 50px;
+	line-height: 50px;
+}
+
+.vertical_alignment p {
+	vertical-align: middle;
+	/*display: inline-block;*/
+}
