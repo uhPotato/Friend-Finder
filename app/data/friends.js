@@ -34,7 +34,7 @@ var friends = [{
 }, {
 	"name":"Deadpool",
 	"photo":"../images/deadpool.jpg",
-	"scores":[1, 1, 1, 5, 4, 1, 1, 1, 1, 1]
+	"scores":[1, 1, 5, 2, 4, 1, 1, 1, 1, 1]
 }];
 
 module.exports = friends;
