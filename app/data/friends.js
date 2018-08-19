@@ -29,7 +29,7 @@ var friends = [{
 	"scores":[3, 3, 2, 3, 3, 3, 4, 2, 1, 1]
 }, {
 	"name":"Superman",
-	"photo":"superman.jpg",
+	"photo":"../images/superman.jpg",
 	"scores":[1, 5, 1, 5, 1, 5, 1, 5, 4, 5]
 }, {
 	"name":"Deadpool",
